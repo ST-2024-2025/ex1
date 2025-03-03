@@ -12,9 +12,9 @@ a. Use o gafa dataset. Analise o preço de ações do Google em 2018. É white n
 b. Use o dataset `aus_retail`. Crie o plot temporal, subseries, lag e ACF. Você consegue observar alguma sazonalidade, ciclo ou tendência?
 
 ## 2. Transformações e Decomposição de Séries Temporais
-a. Considere a informação do GDP no `global_economy`. Plot o GDP per capita para cada país ao longo do tempo. Qual país tem o maior GDP per capita? Como isto tem mudado ao longo do tempo?
-b. Qual transformação Box-Cox você selecionaria para aplicar ao exercício **b** do item **Gráficos**?
-c. Para as seguintes séries encontre a transformação Box-Cox adequada, com o objetivo de estabilizar a variância.
+a. Considere a informação do GDP no `global_economy`. Plot o GDP per capita para cada país ao longo do tempo. Qual país tem o maior GDP per capita? Como isto tem mudado ao longo do tempo?<br>
+b. Qual transformação Box-Cox você selecionaria para aplicar ao exercício **b** do item **Gráficos**?<br>
+c. Para as seguintes séries encontre a transformação Box-Cox adequada, com o objetivo de estabilizar a variância.<br>
   - Tobacco de `aus_production`
   - Economy class passengers de Melbourne para Sydney para o dataset `ansett`.
 
